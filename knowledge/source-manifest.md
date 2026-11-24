@@ -1,0 +1,258 @@
+# 源文件清单
+整理日期：2026-11-24。以下为只读来源的文本快照；哈希对应原始文件字节。
+
+- 归档：knowledge/sources/ai 珠宝设计/WORKFLOW.md
+  - 来源：/Users/kunkun/Documents/ai 珠宝设计/WORKFLOW.md
+  - SHA256：776e0f1bd25ca469df03906ad6d841c46761fb0341b3d58fdbbd9677187d043e
+- 归档：knowledge/sources/ai 珠宝设计/reference-AGENTS.md
+  - 来源：/Users/kunkun/Documents/ai 珠宝设计/AGENTS.md
+  - SHA256：c953b1cf435b59dd199787fb9e18cb7991cfc0ae04faa3b5f4a556ce4bb2af23
+- 归档：knowledge/sources/ai 珠宝设计/research/审美积累_01_荆棘藤蔓.md
+  - 来源：/Users/kunkun/Documents/ai 珠宝设计/research/审美积累_01_荆棘藤蔓.md
+  - SHA256：e1e5028ed96f4c3cb41909f58fe6047bf566cbd649dd2af1836db5410f36910b
+- 归档：knowledge/sources/ai 珠宝设计/studies/dragon-ring/white-model-v002/README.md
+  - 来源：/Users/kunkun/Documents/ai 珠宝设计/studies/dragon-ring/white-model-v002/README.md
+  - SHA256：44c7d0d3f041474205920e4861fa436aa1cad2885deaeaac8a47e7d25738a387
+- 归档：knowledge/sources/ai 珠宝设计/studies/dragon-ring/white-model-v002/FINAL_CHECK.md
+  - 来源：/Users/kunkun/Documents/ai 珠宝设计/studies/dragon-ring/white-model-v002/FINAL_CHECK.md
+  - SHA256：cd566996d8562ffa2b3def54913bdb8f8d8afd81ae0b04ab6e22f3411e385822
+- 归档：knowledge/sources/ai 珠宝设计/studies/dragon-ring/white-model-v001/README.md
+  - 来源：/Users/kunkun/Documents/ai 珠宝设计/studies/dragon-ring/white-model-v001/README.md
+  - SHA256：ad5bd894693ee35f1df6ccc1b268921c884a9e18196fe0e65c990f5d91760314
+- 归档：knowledge/sources/ai 珠宝设计/studies/dior-bois-de-rose/v001/review.md
+  - 来源：/Users/kunkun/Documents/ai 珠宝设计/studies/dior-bois-de-rose/v001/review.md
+  - SHA256：f228cc74127a54d072386ffde7fecb723bb2841ea9b15f0c72c08eefe6bc58a4
+- 归档：knowledge/sources/ai 珠宝设计/studies/dior-bois-de-rose/white-model-v001/README.md
+  - 来源：/Users/kunkun/Documents/ai 珠宝设计/studies/dior-bois-de-rose/white-model-v001/README.md
+  - SHA256：0f8c24798326faf82b9ccd87a168ef813b44b51e4c20c2a69db8fea596d93544
+- 归档：knowledge/sources/ai 珠宝设计/workflow/validation-v001.md
+  - 来源：/Users/kunkun/Documents/ai 珠宝设计/workflow/validation-v001.md
+  - SHA256：51dfb49aef344d78fc44825cc746626c2b311b31bafda6776d773277f3d2abbe
+- 归档：knowledge/sources/ai 珠宝设计/concepts/thorn-emerald/v001/design.md
+  - 来源：/Users/kunkun/Documents/ai 珠宝设计/concepts/thorn-emerald/v001/design.md
+  - SHA256：93286869c7b8a0dabb6ef2cc55a2a31af11c825da3e8a2eb66a211b60e3336c0
+- 归档：knowledge/sources/ai 珠宝设计/concepts/thorn-emerald/v002/design.md
+  - 来源：/Users/kunkun/Documents/ai 珠宝设计/concepts/thorn-emerald/v002/design.md
+  - SHA256：1815fb6a5a62cd84ef0ea036facc971d97847208bd5a110545dbcaf95a199697
+- 归档：knowledge/sources/ai 珠宝设计/skills/jewelry-design/reference-SKILL.md
+  - 来源：/Users/kunkun/Documents/ai 珠宝设计/skills/jewelry-design/SKILL.md
+  - SHA256：293d99fc54ecea493faaaff2f10996afc6388785298af00c775256fc8798043f
+- 归档：knowledge/sources/ai 珠宝设计/skills/jewelry-design/references/knowledge.md
+  - 来源：/Users/kunkun/Documents/ai 珠宝设计/skills/jewelry-design/references/knowledge.md
+  - SHA256：6f01e1da28fd5eca9ca53978c107629544c2d2a82b7535bf3805faedaba903ea
+- 归档：knowledge/sources/ai 珠宝设计/skills/jewelry-design/references/workflow.md
+  - 来源：/Users/kunkun/Documents/ai 珠宝设计/skills/jewelry-design/references/workflow.md
+  - SHA256：3be5a56eac928bc6b46e3950321e23581c0fc85f73cc754d22bbbb70dc288767
+- 归档：knowledge/sources/ai 珠宝设计/skills/jewelry-design/references/orientation.md
+  - 来源：/Users/kunkun/Documents/ai 珠宝设计/skills/jewelry-design/references/orientation.md
+  - SHA256：8d1c92c82e8efd65e72ff5e4a13bf81831f44ef8b7e7a419d092c7bce7b2e66a
+- 归档：knowledge/sources/ai 珠宝设计/skills/jewelry-design/agents/white-model-agent.md
+  - 来源：/Users/kunkun/Documents/ai 珠宝设计/skills/jewelry-design/agents/white-model-agent.md
+  - SHA256：8dd71a7407bf7972d5293ad04542b2f9292225e133d09889f273241bbeebd993
+- 归档：knowledge/sources/高定克罗心知识库/README.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/README.md
+  - SHA256：ba253ea0c84269ff577e43d6d473d2f71e30fe4ba5c3418b98192b9f90bd6a4f
+- 归档：knowledge/sources/高定克罗心知识库/01_课程体系/第三章_产品教案/第三章模板_产品教案编写规范.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/01_课程体系/第三章_产品教案/第三章模板_产品教案编写规范.md
+  - SHA256：ea8d030de4cc11bc80018c5b66ca4d2b608ecff3a35dd1c0fba8b42d2d1f831f
+- 归档：knowledge/sources/高定克罗心知识库/01_课程体系/项目交接与总纲/Codex接续提示词_手册续写指南.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/01_课程体系/项目交接与总纲/Codex接续提示词_手册续写指南.md
+  - SHA256：c64da47c1eb5a6eacfb0b61611ec8c0978cbfa91a689cb05673efb3f641c3b3b
+- 归档：knowledge/sources/高定克罗心知识库/01_课程体系/项目交接与总纲/项目总纲_产品内容编导实战手册.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/01_课程体系/项目交接与总纲/项目总纲_产品内容编导实战手册.md
+  - SHA256：76303240e5e6299deca085d64f7eac8433f31c126d1c85dd46edeb79013ff4a7
+- 归档：knowledge/sources/高定克罗心知识库/01_课程体系/第一章_编导方法论/03_情绪模型.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/01_课程体系/第一章_编导方法论/03_情绪模型.md
+  - SHA256：942a27f19a24f2915e1ea071323dd51a7f7658cc5cc12aa66a13e7e1dde89d6b
+- 归档：knowledge/sources/高定克罗心知识库/01_课程体系/第一章_编导方法论/00_序_编导底层认知.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/01_课程体系/第一章_编导方法论/00_序_编导底层认知.md
+  - SHA256：6bd86a2cbe7e4824c4970cb6ad52535d96561f4abef34e946c934ae118a93c0a
+- 归档：knowledge/sources/高定克罗心知识库/01_课程体系/第一章_编导方法论/第一章完整目录_编导方法论.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/01_课程体系/第一章_编导方法论/第一章完整目录_编导方法论.md
+  - SHA256：def6516dfc5d99cd4b2ab6116414300198c85358556ba8a799bdfa5d24a6f616
+- 归档：knowledge/sources/高定克罗心知识库/01_课程体系/第一章_编导方法论/04_评论模型.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/01_课程体系/第一章_编导方法论/04_评论模型.md
+  - SHA256：c2929555331ff8968d59d319af862a8bf31d76984aec422bd5f3adb981e8269a
+- 归档：knowledge/sources/高定克罗心知识库/01_课程体系/第一章_编导方法论/05_画面模型.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/01_课程体系/第一章_编导方法论/05_画面模型.md
+  - SHA256：7b8d9bf984e1fb70b7ff77742e0197c2f2400911e8fe58757edeef98ba000c0e
+- 归档：knowledge/sources/高定克罗心知识库/01_课程体系/第一章_编导方法论/06_文案结构.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/01_课程体系/第一章_编导方法论/06_文案结构.md
+  - SHA256：68d2c68f71c4951df0c2b0feb38567732772041875ca11f25f247dbefdd8bb32
+- 归档：knowledge/sources/高定克罗心知识库/01_课程体系/第一章_编导方法论/01_爆款传播公式.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/01_课程体系/第一章_编导方法论/01_爆款传播公式.md
+  - SHA256：e6e071b8628f1647093c713d8894d752c7a4d995b4bb0e0adff14c2139dbedc6
+- 归档：knowledge/sources/高定克罗心知识库/01_课程体系/第一章_编导方法论/02_留人逻辑.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/01_课程体系/第一章_编导方法论/02_留人逻辑.md
+  - SHA256：16d05d3696ee13b544ab93c5a91f9b4c8c958a76b35e36d552ae2d1dcefbb0e3
+- 归档：knowledge/sources/高定克罗心知识库/01_课程体系/第二章_产品知识库/第二章模板_知识条目编写规范.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/01_课程体系/第二章_产品知识库/第二章模板_知识条目编写规范.md
+  - SHA256：b5fccf9b96e7bf66c30e7e340576dfd0d347f2437c6ade5b6a71fcee552c42ba
+- 归档：knowledge/sources/高定克罗心知识库/01_课程体系/第二章_产品知识库/第二章产品知识库_结构讨论与写作规范.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/01_课程体系/第二章_产品知识库/第二章产品知识库_结构讨论与写作规范.md
+  - SHA256：17173f7f466197155be08ea3807d58f314964e5238dffea336a40946946d099e
+- 归档：knowledge/sources/高定克罗心知识库/05_技术脚本/爬虫与数据处理脚本/product_knowledge_base.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/05_技术脚本/爬虫与数据处理脚本/product_knowledge_base.md
+  - SHA256：50b159419e9e9708e9e9d6fcbf35cd5fbbfd6c8c93e6ee4365c9ce75e41d8142
+- 归档：knowledge/sources/高定克罗心知识库/05_技术脚本/爬虫与数据处理脚本/rinkan_ch_knowledge.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/05_技术脚本/爬虫与数据处理脚本/rinkan_ch_knowledge.md
+  - SHA256：1d186714b12a9dc90f891271ad0c5552c1089e95af9ad4eeabc606c589c13a42
+- 归档：knowledge/sources/高定克罗心知识库/03_研究报告/克罗心品牌与行业背景_深度研究报告_clean.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/03_研究报告/克罗心品牌与行业背景_深度研究报告_clean.md
+  - SHA256：08f10babdd3371ee84d77c1f6aa5498f373b689a4dc53aeb3692edfe2ba6c234
+- 归档：knowledge/sources/高定克罗心知识库/03_研究报告/克罗心品牌与行业背景_深度研究报告.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/03_研究报告/克罗心品牌与行业背景_深度研究报告.md
+  - SHA256：271d6fdd1702f9c2e7b4b928feee4f2b273675b6b23c3d488a9980083f8f1fae
+- 归档：knowledge/sources/高定克罗心知识库/03_研究报告/金银珠宝加工工艺与宝石知识_深度研究报告.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/03_研究报告/金银珠宝加工工艺与宝石知识_深度研究报告.md
+  - SHA256：280eed930d0fc1da50e12c79e51a7e4653cb1b380face0966158b28cdada34d8
+- 归档：knowledge/sources/高定克罗心知识库/04_产出物与素材/克罗心产品知识库_RINKAN中文版.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/克罗心产品知识库_RINKAN中文版.md
+  - SHA256：541a5d3f8a73a237abcd884d2aaceb8987d8eac927d0e95a56ce9eb9858d9a4d
+- 归档：knowledge/sources/高定克罗心知识库/04_产出物与素材/克罗心产品知识库_RINKAN买取数据版.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/克罗心产品知识库_RINKAN买取数据版.md
+  - SHA256：f004a527efe31ba9e74a8b86e7abe1d3317655dbbc08f7fcc0c6e5dac1207f05
+- 归档：knowledge/sources/高定克罗心知识库/04_产出物与素材/克罗心珠宝工艺与材质科普.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/克罗心珠宝工艺与材质科普.md
+  - SHA256：4ba4b870b56a47521621043551368e8ae17a7fa378e6ffee27b8dd34a4cfcf40
+- 归档：knowledge/sources/高定克罗心知识库/04_产出物与素材/克罗心品牌历史科普指南.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/克罗心品牌历史科普指南.md
+  - SHA256：bef3c225222c30ea145295b3824df936754291134e99370901c7663b3f0894a5
+- 归档：knowledge/sources/高定克罗心知识库/04_产出物与素材/克罗心产品知识库_RINKAN售价数据版.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/克罗心产品知识库_RINKAN售价数据版.md
+  - SHA256：2bdce36cbfa7769557311bf99f95d0d969f93797d8365ed143b8e92516919e59
+- 归档：knowledge/sources/高定克罗心知识库/02_产品数据/克罗心项目_20260713/克罗心产品知识库_RINKAN买取数据版.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/02_产品数据/克罗心项目_20260713/克罗心产品知识库_RINKAN买取数据版.md
+  - SHA256：f004a527efe31ba9e74a8b86e7abe1d3317655dbbc08f7fcc0c6e5dac1207f05
+  - 内容重复：knowledge/sources/高定克罗心知识库/04_产出物与素材/克罗心产品知识库_RINKAN买取数据版.md
+- 归档：knowledge/sources/高定克罗心知识库/02_产品数据/克罗心项目_20260713/克罗心项目_工作产出包_20260713.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/02_产品数据/克罗心项目_20260713/克罗心项目_工作产出包_20260713.md
+  - SHA256：41c3056cc2b35858426942fe06ac0fa66c93feb669e6f7d19fd794cb7694a63e
+- 归档：knowledge/sources/高定克罗心知识库/02_产品数据/克罗心项目_20260713/克罗心售价数据汇总_20260713.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/02_产品数据/克罗心项目_20260713/克罗心售价数据汇总_20260713.md
+  - SHA256：d2f27ad9b59993a0d40329f2094e16dabb28e77a662d68dfdcbee833bd380db9
+- 归档：knowledge/sources/高定克罗心知识库/02_产品数据/克罗心项目_20260713/克罗心产品售价数据报告_RINKAN_20260713.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/02_产品数据/克罗心项目_20260713/克罗心产品售价数据报告_RINKAN_20260713.md
+  - SHA256：eca616e3ccb770de069dc9004a1524432553d4e5bc2a6afe10a511c627a43cbc
+- 归档：knowledge/sources/高定克罗心知识库/02_产品数据/克罗心项目_20260713/第八章_克罗心与关键人物.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/02_产品数据/克罗心项目_20260713/第八章_克罗心与关键人物.md
+  - SHA256：d87134543913177d0aae5a6b4c7922e99688b2343451d5c97383d3d1ee612856
+- 归档：knowledge/sources/高定克罗心知识库/02_产品数据/克罗心项目_20260713/克罗心产品知识库_RINKAN售价数据版.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/02_产品数据/克罗心项目_20260713/克罗心产品知识库_RINKAN售价数据版.md
+  - SHA256：2bdce36cbfa7769557311bf99f95d0d969f93797d8365ed143b8e92516919e59
+  - 内容重复：knowledge/sources/高定克罗心知识库/04_产出物与素材/克罗心产品知识库_RINKAN售价数据版.md
+- 归档：knowledge/sources/高定克罗心知识库/02_品类知识/李维斯与卡哈特Vintage底板·版型水洗标年份扣子刻字深度解析.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/02_品类知识/李维斯与卡哈特Vintage底板·版型水洗标年份扣子刻字深度解析.md
+  - SHA256：fb2e57a19b0101a4fc651beab1a1f88da2a21ce91b5b1d47b48155e84b7dca17
+- 归档：knowledge/sources/高定克罗心知识库/02_品类知识/925银与做旧处理.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/02_品类知识/925银与做旧处理.md
+  - SHA256：23023984b1a9362a9a1f830ebc1c6510c5e4dc8be0dc7b0b68f8bb6d892ce50b
+- 归档：knowledge/sources/高定克罗心知识库/02_品类知识/K金知识.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/02_品类知识/K金知识.md
+  - SHA256：cee1ba491655fd8d2f591b04b90ccece1741beacc5ced2550ae184cd62f0d155
+- 归档：knowledge/sources/高定克罗心知识库/02_品类知识/镶嵌工艺与刻字处理工艺.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/02_品类知识/镶嵌工艺与刻字处理工艺.md
+  - SHA256：00d2d40ab5851f9e05bb00316a0af067c21bfa1c29749a330d0a74acfbebe7c9
+- 归档：knowledge/sources/高定克罗心知识库/02_品类知识/K金与银的真伪鉴别.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/02_品类知识/K金与银的真伪鉴别.md
+  - SHA256：8eddad25d7a5f2fe52838a40cc1b9ad8a83f11abaa8e7ad75b8b5a2de02f69a5
+- 归档：knowledge/sources/高定克罗心知识库/02_品类知识/宝石·产地·证书·品质鉴别.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/02_品类知识/宝石·产地·证书·品质鉴别.md
+  - SHA256：4725f1c8bfb839b15ded3650ba45a4e2e3d26b0a75ad2c1dd1ec7245e8062227
+- 归档：knowledge/sources/高定克罗心知识库/02_品类知识/克罗心牛仔裤·底板类型.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/02_品类知识/克罗心牛仔裤·底板类型.md
+  - SHA256：d19043b5a1e9f7d620b30e94c1ef6facd2d67db755c2d2f9269a108a9e51bab3
+- 归档：knowledge/sources/高定克罗心知识库/02_品类知识/红宝石与蓝宝石深度专题.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/02_品类知识/红宝石与蓝宝石深度专题.md
+  - SHA256：b20073259caae047439b2b8773c3d41af4ab6fc2364f833a111f582717f5f2a4
+- 归档：knowledge/sources/高定克罗心知识库/02_品类知识/水贝工艺与通货高定复刻区别.md
+  - 来源：/Users/kunkun/Documents/高定克罗心知识库/02_品类知识/水贝工艺与通货高定复刻区别.md
+  - SHA256：0c1acd8f03a7c4eb559ac1b6406f506ae6559f67fb7988de9ecb9118261218b9
+- 归档：knowledge/sources/工作AI知识库搭建/codex视频skill工作流拆解.md
+  - 来源：/Users/kunkun/Documents/工作AI知识库搭建/codex视频skill工作流拆解.md
+  - SHA256：a841e942984453c916b5c7ca418ee89f966785451ceddec8c0f16ed6bf1a44d1
+- 归档：knowledge/sources/工作AI知识库搭建/自媒体前端运营知识库/06_平台内容策略.md
+  - 来源：/Users/kunkun/Documents/工作AI知识库搭建/自媒体前端运营知识库/06_平台内容策略.md
+  - SHA256：00b9c0a47bf91a455a9552d4c1bc00f644121d68f5d62fdef3d4ae26516999a1
+- 归档：knowledge/sources/工作AI知识库搭建/自媒体前端运营知识库/07_私域承接话术.md
+  - 来源：/Users/kunkun/Documents/工作AI知识库搭建/自媒体前端运营知识库/07_私域承接话术.md
+  - SHA256：a2a6728a0965ed5b038b9e44f385de13632fedd3aeae502e55fbd6a01231f39f
+- 归档：knowledge/sources/工作AI知识库搭建/自媒体前端运营知识库/10_PPT汇报素材库.md
+  - 来源：/Users/kunkun/Documents/工作AI知识库搭建/自媒体前端运营知识库/10_PPT汇报素材库.md
+  - SHA256：a46765b70251bece698afd5ff546551ceaf58aabe2770056905c80b49a116cd6
+- 归档：knowledge/sources/工作AI知识库搭建/自媒体前端运营知识库/01_业务背景与团队现状.md
+  - 来源：/Users/kunkun/Documents/工作AI知识库搭建/自媒体前端运营知识库/01_业务背景与团队现状.md
+  - SHA256：ac8b356e0d4a904a2019e3f45b267c7cdcabb734414b0b42a44e6290dc21b8bc
+- 归档：knowledge/sources/工作AI知识库搭建/自媒体前端运营知识库/09_周复盘模板.md
+  - 来源：/Users/kunkun/Documents/工作AI知识库搭建/自媒体前端运营知识库/09_周复盘模板.md
+  - SHA256：b5b5f40100649e03f59a6dd1b01737be7549b4f618332a35e9d12d1962aa4a9f
+- 归档：knowledge/sources/工作AI知识库搭建/自媒体前端运营知识库/08_员工训练与考核SOP.md
+  - 来源：/Users/kunkun/Documents/工作AI知识库搭建/自媒体前端运营知识库/08_员工训练与考核SOP.md
+  - SHA256：b2dd84a1cfc423882b7e2de153fa78279bd665afeaa1df5056f1978581077dec
+- 归档：knowledge/sources/工作AI知识库搭建/自媒体前端运营知识库/02_产品细节表达词库.md
+  - 来源：/Users/kunkun/Documents/工作AI知识库搭建/自媒体前端运营知识库/02_产品细节表达词库.md
+  - SHA256：65ccfc76a91d43d90f7d1f89b266c71993f04952248bd5ba0e99cbe62f3239cf
+- 归档：knowledge/sources/工作AI知识库搭建/自媒体前端运营知识库/13_最新7类流量文案与剪辑落地SOP.md
+  - 来源：/Users/kunkun/Documents/工作AI知识库搭建/自媒体前端运营知识库/13_最新7类流量文案与剪辑落地SOP.md
+  - SHA256：7694b11ed577369ebf7cacf5b693449b22fd39e87c78cb8066ba07334a8cc4a3
+- 归档：knowledge/sources/工作AI知识库搭建/自媒体前端运营知识库/README.md
+  - 来源：/Users/kunkun/Documents/工作AI知识库搭建/自媒体前端运营知识库/README.md
+  - SHA256：46331990df325097fdb891af0e389c72a904fe93fa16f033ef015e1f3371c732
+- 归档：knowledge/sources/工作AI知识库搭建/自媒体前端运营知识库/00_长期协作设定.md
+  - 来源：/Users/kunkun/Documents/工作AI知识库搭建/自媒体前端运营知识库/00_长期协作设定.md
+  - SHA256：b40634b283df15ea353e41c780bdb41aa7b507ac4ab8f50a6589b4d9dc10de57
+- 归档：knowledge/sources/工作AI知识库搭建/自媒体前端运营知识库/03_短视频选题库.md
+  - 来源：/Users/kunkun/Documents/工作AI知识库搭建/自媒体前端运营知识库/03_短视频选题库.md
+  - SHA256：f8e0b16a742bb40dfe3ce96c5a9b93d09a8766c8584c0dc624ffa8f88b305791
+- 归档：knowledge/sources/工作AI知识库搭建/自媒体前端运营知识库/04_封面标题SOP.md
+  - 来源：/Users/kunkun/Documents/工作AI知识库搭建/自媒体前端运营知识库/04_封面标题SOP.md
+  - SHA256：d4e99b63a78006705aa178571387ff9a973c4fec1d308efd4f2dbbc1538df4b3
+- 归档：knowledge/sources/工作AI知识库搭建/自媒体前端运营知识库/14_内训PPT课程包索引.md
+  - 来源：/Users/kunkun/Documents/工作AI知识库搭建/自媒体前端运营知识库/14_内训PPT课程包索引.md
+  - SHA256：b8de3d9c08dcbad1ad4045195e6f09f14ac32ed55f5454e5f4a8e663b4237b44
+- 归档：knowledge/sources/工作AI知识库搭建/自媒体前端运营知识库/12_PPT短句版.md
+  - 来源：/Users/kunkun/Documents/工作AI知识库搭建/自媒体前端运营知识库/12_PPT短句版.md
+  - SHA256：6668dd3eb3df6ec499f6919fb159119a9b9060a719de28690bfe6e0536aac437
+- 归档：knowledge/sources/工作AI知识库搭建/自媒体前端运营知识库/05_口播脚本模板库.md
+  - 来源：/Users/kunkun/Documents/工作AI知识库搭建/自媒体前端运营知识库/05_口播脚本模板库.md
+  - SHA256：89390f42519136bc74ff464031701b7376792582b7e849126e659856c2422ef1
+- 归档：knowledge/sources/工作AI知识库搭建/自媒体前端运营知识库/11_完整PPT逐页稿.md
+  - 来源：/Users/kunkun/Documents/工作AI知识库搭建/自媒体前端运营知识库/11_完整PPT逐页稿.md
+  - SHA256：c8b615eb84197be776f14fb27d528cec1cafea27282821b7ec519aaaa422ea10
+- 归档：knowledge/sources/工作AI知识库搭建/自媒体前端运营知识库/15_过往思路学习内训汇总.md
+  - 来源：/Users/kunkun/Documents/工作AI知识库搭建/自媒体前端运营知识库/15_过往思路学习内训汇总.md
+  - SHA256：158e691c23f451de30e35f486cd9f48ed117ffb30f64ba419d0afd2d5e454b8c
+- 归档：knowledge/sources/工作AI知识库搭建/ppt-motion-project/WORKFLOW.md
+  - 来源：/Users/kunkun/Documents/工作AI知识库搭建/ppt-motion-project/WORKFLOW.md
+  - SHA256：0ec8490d41665dbd6250873152739d453cdec1d03353d107d285dca8997ff557
+- 归档：knowledge/sources/工作AI知识库搭建/ppt-motion-project/DESIGN.md
+  - 来源：/Users/kunkun/Documents/工作AI知识库搭建/ppt-motion-project/DESIGN.md
+  - SHA256：2e2a7fc1abd7300bc5c1fac6660674bdad83c275ecaa40a712751ebe40bd54ab
+- 归档：knowledge/sources/工作AI知识库搭建/ppt-motion-project/reference-AGENTS.md
+  - 来源：/Users/kunkun/Documents/工作AI知识库搭建/ppt-motion-project/AGENTS.md
+  - SHA256：71c49f48777e74fd46a5f61f4ef3db8f63a47a980700c1fa1a145b0d912d0846
+- 归档：knowledge/sources/工作AI知识库搭建/ppt-motion-project/reference-CLAUDE.md
+  - 来源：/Users/kunkun/Documents/工作AI知识库搭建/ppt-motion-project/CLAUDE.md
+  - SHA256：71c49f48777e74fd46a5f61f4ef3db8f63a47a980700c1fa1a145b0d912d0846
+  - 内容重复：knowledge/sources/工作AI知识库搭建/ppt-motion-project/reference-AGENTS.md
+- 归档：knowledge/sources/vertical-explainer-editing/reference-SKILL.md
+  - 来源：/Users/kunkun/Documents/Codex/2026-11-22/new-chat/outputs/vertical-explainer-editing/SKILL.md
+  - SHA256：d9be18f3ec8cfce1baa3191dca734d4f434c220b5430c879e432257b1d5c110b
+- 归档：knowledge/sources/vertical-explainer-editing/references/agent-editing-brief.md
+  - 来源：/Users/kunkun/Documents/Codex/2026-11-22/new-chat/outputs/vertical-explainer-editing/references/agent-editing-brief.md
+  - SHA256：2f5227322ace0472e4fa8319c3e509efcfa283e22a442f99c406dae3c0d345f0
+- 归档：knowledge/sources/vertical-explainer-editing/references/lin-vertical-samples.md
+  - 来源：/Users/kunkun/Documents/Codex/2026-11-22/new-chat/outputs/vertical-explainer-editing/references/lin-vertical-samples.md
+  - SHA256：614203a1f69b9b5b7bdf9aa78ea39a409b7fbc2a536e1497d07235dc40b77754
+- 归档：knowledge/sources/vertical-explainer-editing/references/lin-editing-grammar.md
+  - 来源：/Users/kunkun/Documents/Codex/2026-11-22/new-chat/outputs/vertical-explainer-editing/references/lin-editing-grammar.md
+  - SHA256：182894156a2371df0d2d54dba89aff9ec5e01db67877cb05cd47cfc3badb7d0f
+- 归档：knowledge/sources/克罗心剪辑工程/production.md
+  - 来源：/Users/kunkun/Documents/Codex/2026-11-22/new-chat-2/outputs/克罗心剪辑工程/production.md
+  - SHA256：ff6ba119ca598347e4f1496447cede7192cbc48836958f98c2d8c655bd47f1e3
+- 归档：knowledge/sources/codex-learning/hyperframes-setup.md
+  - 来源：/Users/kunkun/.codex/memories/extensions/ad_hoc/notes/2026-06-30-hyperframes-setup-followup.md
+  - SHA256：54e506bc8a0e8e4a100ff2efc2a2c4f808ff421eb8f26faf1aac1dc61239f591
+- 归档：knowledge/sources/translation/glossary.txt
+  - 来源：/Users/kunkun/pyvideotrans/videotrans/glossary.txt
+  - SHA256：c2de46123908f03e8a1f36c088d936aed10f5dd0eee2a73ea66464e55e1d7269

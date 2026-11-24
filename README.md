@@ -7,3 +7,5 @@ Codex/Cursor 入口 AGENTS.md；Claude Code、Gemini CLI 通过各自入口引�
 远端地址：https://github.com/curran2610-cloud/ai-personal-profile ；实际可见性：Private（2026-11-24 网页确认）。已通过 GitHub 连接提交全部文件，完成远端读取及独立示例修改、恢复验证。本地文件是内容副本；本地 Git 尚无凭据和提交历史，未完成 Git clone/pull/push 同步。换电脑需正式登录后克隆已确认私有仓库，在克隆目录读取入口。第二台电脑与第二个 AI 未实测。
 仅已提交并同步内容可通过版本历史恢复；未提交、未同步不能保证。共享文件不等于同步聊天记录和隐藏记忆。
 适配参考：https://code.claude.com/docs/en/memory 、https://geminicli.com/docs/reference/memport/ 、https://prod.cursor.com/docs/cli/using （2026-11-24）。
+
+历史知识库总入口：[knowledge/README.md](knowledge/README.md)。本轮归集 84 份文本快照及五个项目摘要。
