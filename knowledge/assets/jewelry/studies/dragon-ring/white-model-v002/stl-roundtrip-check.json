@@ -1,0 +1,26 @@
+{
+  "dragon-v002-solid-blank-mm.stl": {
+    "triangle_count": 2311468,
+    "byte_length_valid": true,
+    "finite_vertices": true,
+    "bounds_mm": [
+      24.494274139404297,
+      17.145462036132812,
+      29.649200439453125
+    ],
+    "signed_volume_mm3": 2483.70814291783,
+    "degenerate_triangles": 0
+  },
+  "dragon-v002-pilot-body-mm.stl": {
+    "triangle_count": 2335660,
+    "byte_length_valid": true,
+    "finite_vertices": true,
+    "bounds_mm": [
+      24.495895385742188,
+      17.145462036132812,
+      29.64975357055664
+    ],
+    "signed_volume_mm3": 2471.166356478559,
+    "degenerate_triangles": 0
+  }
+}

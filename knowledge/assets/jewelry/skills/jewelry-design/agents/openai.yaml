@@ -1,0 +1,6 @@
+interface:
+  display_name: "珠宝设计 · 项目专用"
+  short_description: "整理珠宝需求并执行中性白模、方向防错、版本留存和分阶段校验"
+  default_prompt: "使用 $jewelry-design 读取当前项目，执行珠宝3D白模工作流并检查元素方向与历史版本。"
+policy:
+  allow_implicit_invocation: true

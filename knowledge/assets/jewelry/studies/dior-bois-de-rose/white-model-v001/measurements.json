@@ -1,0 +1,24 @@
+{
+  "vertices": 40960,
+  "faces": 40960,
+  "non_manifold_edges": 0,
+  "volume_mm3": 163.94865879627096,
+  "actual_inner_diameter_mm": 16.49999907466,
+  "bounds_mm": {
+    "X": 19.700000762939453,
+    "Y": 19.700000762939453,
+    "Z": 4.957589626312256
+  },
+  "camera_scale_mm": {
+    "top": 25.0,
+    "front": 25.0,
+    "right": 25.0,
+    "hero": 25.0
+  },
+  "not_checked": [
+    "self intersections",
+    "minimum wall thickness",
+    "comfort",
+    "manufacturing suitability"
+  ]
+}

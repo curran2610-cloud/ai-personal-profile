@@ -1,0 +1,27 @@
+{
+  "project_id": null,
+  "project_path": null,
+  "task_goal": null,
+  "target_stage": "concept_white_model",
+  "inputs": [],
+  "confirmed_requirements": [],
+  "assumptions": [],
+  "unknowns": [],
+  "allowed_changes": [],
+  "locked_properties": [],
+  "dimensions": [],
+  "material_intent": {},
+  "display_mode": "opaque_neutral_white_or_gray",
+  "finished_material_render_allowed": false,
+  "orientation": {
+    "frame_id": "JEWELRY_FRAME",
+    "axis_convention": null,
+    "baseline_snapshot": null,
+    "baseline_approval_record": null,
+    "element_instances": [],
+    "rule": "Preserve each directional element's own approved orientation; do not impose a shared world direction."
+  },
+  "manufacturing_constraints": [],
+  "acceptance_checks": [],
+  "notes": "Fill from the active project. Empty confirmed_requirements or project identity is not an executable task; unknown dimensions may remain explicit assumptions."
+}

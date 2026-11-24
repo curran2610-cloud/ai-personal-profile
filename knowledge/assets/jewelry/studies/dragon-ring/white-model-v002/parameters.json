@@ -1,0 +1,11 @@
+{
+  "version": "002",
+  "inner_diameter_mm": 18.2,
+  "voxel_mm": 0.05,
+  "bevel_mm": 0.14,
+  "pilot_diameter_factor": 0.72,
+  "pilot_depth_factor": 0.4,
+  "minimum_gem_edge_gap_mm": 0.2,
+  "shrinkage_compensation": 1.0,
+  "release": "RESIN PROTOTYPE, NOT CASTING RELEASE"
+}

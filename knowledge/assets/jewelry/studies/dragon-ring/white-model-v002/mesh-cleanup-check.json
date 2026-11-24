@@ -1,0 +1,18 @@
+{
+  "pilot_body": {
+    "non_manifold_edges": 0,
+    "boundary_edges": 0,
+    "zero_area_faces": 0,
+    "volume_mm3": 2471.1663564783694,
+    "vertices": 1167830,
+    "faces": 2335660
+  },
+  "solid_blank": {
+    "non_manifold_edges": 0,
+    "boundary_edges": 0,
+    "zero_area_faces": 129,
+    "volume_mm3": 2483.663131333122,
+    "vertices": 1168094,
+    "faces": 2336188
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "inner_diameter_mm": 18.2,
+  "bottom_width_mm": 6.5,
+  "bottom_thickness_mm": 2.0,
+  "head_width_mm": 17.0,
+  "head_height_reference_mm": 10.0,
+  "size_assumption": "#8 interpreted provisionally as US 8",
+  "gem_diameters_counts": {
+    "0.8": 6,
+    "1.0": 8,
+    "1.2": 14,
+    "1.4": 4,
+    "1.6": 4,
+    "1.8": 2
+  }
+}

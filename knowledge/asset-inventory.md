@@ -1,0 +1,86 @@
+# 非文本资产清单
+更新：2026-11-24。只核对路径与大小，未上传这些二进制文件；不代表文件内容已审阅或工程已验证。
+
+- /Users/kunkun/Documents/ai 珠宝设计/studies/dragon-ring/reference.jpg — 298904 bytes
+- /Users/kunkun/Documents/ai 珠宝设计/studies/dragon-ring/white-model-v002/review-sheet.png — 1260759 bytes
+- /Users/kunkun/Documents/ai 珠宝设计/studies/dragon-ring/white-model-v002/hero.png — 1827398 bytes
+- /Users/kunkun/Documents/ai 珠宝设计/studies/dragon-ring/white-model-v002/dragon-v002-solid-blank-mm.stl — 115573484 bytes
+- /Users/kunkun/Documents/ai 珠宝设计/studies/dragon-ring/white-model-v002/dragon-v002-pilot-body-mm.stl — 116783084 bytes
+- /Users/kunkun/Documents/ai 珠宝设计/studies/dragon-ring/white-model-v002/dragon-white-model-v002.blend — 59911663 bytes
+- /Users/kunkun/Documents/ai 珠宝设计/studies/dragon-ring/white-model-v002/side.png — 1441626 bytes
+- /Users/kunkun/Documents/ai 珠宝设计/studies/dragon-ring/white-model-v002/body-only.png — 1819450 bytes
+- /Users/kunkun/Documents/ai 珠宝设计/studies/dragon-ring/white-model-v002/top.png — 1427867 bytes
+- /Users/kunkun/Documents/ai 珠宝设计/studies/dragon-ring/white-model-v002/front.png — 1401184 bytes
+- /Users/kunkun/Documents/ai 珠宝设计/studies/dragon-ring/white-model-v001/review-sheet.png — 881755 bytes
+- /Users/kunkun/Documents/ai 珠宝设计/studies/dragon-ring/white-model-v001/dragon-white-model-v001.blend — 144595 bytes
+- /Users/kunkun/Documents/ai 珠宝设计/studies/dragon-ring/white-model-v001/hero.png — 875073 bytes
+- /Users/kunkun/Documents/ai 珠宝设计/studies/dragon-ring/white-model-v001/side.png — 688769 bytes
+- /Users/kunkun/Documents/ai 珠宝设计/studies/dragon-ring/white-model-v001/top.png — 660881 bytes
+- /Users/kunkun/Documents/ai 珠宝设计/studies/dragon-ring/white-model-v001/front.png — 685706 bytes
+- /Users/kunkun/Documents/ai 珠宝设计/studies/dior-bois-de-rose/v001/three-views.png — 954499 bytes
+- /Users/kunkun/Documents/ai 珠宝设计/studies/dior-bois-de-rose/reference/source.jpg — 53184 bytes
+- /Users/kunkun/Documents/ai 珠宝设计/studies/dior-bois-de-rose/white-model-v001/review-sheet.png — 375161 bytes
+- /Users/kunkun/Documents/ai 珠宝设计/studies/dior-bois-de-rose/white-model-v001/white-model-v001.blend — 1224513 bytes
+- /Users/kunkun/Documents/ai 珠宝设计/studies/dior-bois-de-rose/white-model-v001/hero.png — 421524 bytes
+- /Users/kunkun/Documents/ai 珠宝设计/studies/dior-bois-de-rose/white-model-v001/top.png — 492314 bytes
+- /Users/kunkun/Documents/ai 珠宝设计/studies/dior-bois-de-rose/white-model-v001/right.png — 326930 bytes
+- /Users/kunkun/Documents/ai 珠宝设计/studies/dior-bois-de-rose/white-model-v001/front.png — 342940 bytes
+- /Users/kunkun/Documents/ai 珠宝设计/concepts/thorn-emerald/v001/concept.png — 1684332 bytes
+- /Users/kunkun/Documents/ai 珠宝设计/concepts/thorn-emerald/v002/concept.png — 1562963 bytes
+- /Users/kunkun/Documents/工作AI知识库搭建/outputs/自媒体前端运营复盘与SOP建设方案.pptx — 14024208 bytes
+- /Users/kunkun/Documents/工作AI知识库搭建/outputs/内训PPT/28_AI写的文案能看但不能直接发.pptx — 36795 bytes
+- /Users/kunkun/Documents/工作AI知识库搭建/outputs/内训PPT/25_追热点前先想清楚要吸什么粉.pptx — 36674 bytes
+- /Users/kunkun/Documents/工作AI知识库搭建/outputs/内训PPT/26_新人不会选题先用这张表跑一遍.pptx — 36982 bytes
+- /Users/kunkun/Documents/工作AI知识库搭建/outputs/内训PPT/过往思路学习_内训汇总.pptx — 70529 bytes
+- /Users/kunkun/Documents/工作AI知识库搭建/outputs/内训PPT/27_一条视频发之前先做2个封面方向.pptx — 36528 bytes
+- /Users/kunkun/Documents/工作AI知识库搭建/outputs/内训PPT/29_员工选题差可能是缺检查表.pptx — 35043 bytes
+- /Users/kunkun/Documents/工作AI知识库搭建/outputs/内训PPT/30_内容不能只看播放量要看有效进粉.pptx — 36538 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/05_技术脚本/node_modules/playwright-core/lib/tools/dashboard/appIcon.png — 18945 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/05_技术脚本/node_modules/playwright-core/lib/server/chromium/appIcon.png — 16565 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/card_diamond_clarity.png — 1274397 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/ref_ruby_gemstone.jpg — 96064 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/gemstone_cert_authorities.png — 63877 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/ref_jewelry_wax_carving.jpg — 216011 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/emerald_new.jpg — 107401 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/diamond_cert_authorities.png — 71480 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/oxidation_process_flow@2x.png — 237149 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/ref_diamond_D_vs_H_side.jpg — 37429 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/ref_diamond_D_vs_I_side.jpg — 32707 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/ref_silver_ring_detail.jpg — 72851 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/card_gemstones_trio.png — 662374 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/card_diamond_origin_dark.png — 1348843 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/sapphire_new.jpg — 1217850 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/ref_diamond_D_vs_G_side.jpg — 34359 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/ref_diamond_yellow_vs_brown_tint.jpg — 74747 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/card_diamond_color_DvsG.png — 1346619 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/ruby_new.jpg — 1183287 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/ref_sterling_silver_jewelry.jpg — 191546 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/ref_diamond_colors_D_to_K_faceup.jpg — 160639 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/ref_emerald_crystal.jpg — 98710 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/ref_workshop_silversmith_bench.jpg — 457698 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/ref_diamond_D_vs_K_vs_G_side.jpg — 50225 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/card_silver_oxidation.png — 1407433 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/card_diamond_color_dark.png — 1355443 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/ref_workshop_jeweler_hands.jpg — 170459 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/ref_diamond_D_vs_E_vs_F_side.jpg — 51362 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/gemstone_premium_comparison.png — 71131 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/ref_colored_gemstones_set.jpg — 234074 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/card_category_tier.png — 779963 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/card_diamond_color_DtoK.png — 1435673 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/card_lost_wax_casting.png — 1509261 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/lost_wax_casting_flow@2x.png — 192864 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/diamond_color_scale.png — 69702 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/diamond_origin_distribution.png — 62419 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/diamond_clarity_scale.png — 55032 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/ref_emerald_gemstone.jpg — 156642 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/card_gemstones_trio_v2.png — 662374 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/chart_clarity_scale_dark.png — 11459 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/card_gemstones_trio_v3.png — 740556 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/ref_sapphire_gemstone.png — 1829428 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/04_产出物与素材/配套图片素材/ref_diamond_D_vs_J_side.jpg — 33776 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/02_产品数据/克罗心项目_20260713/克罗心品类价值梯队图_20260713.png — 1381989 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/02_品类知识/克罗心牛仔裤·底板类型.docx — 51645 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/02_品类知识/镶嵌工艺与刻字处理工艺.docx — 57394 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/02_品类知识/李维斯与卡哈特Vintage底板·版型水洗标年份扣子刻字深度解析.docx — 50042 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/02_品类知识/红宝石与蓝宝石深度专题.docx — 44962 bytes
+- /Users/kunkun/Documents/高定克罗心知识库/02_品类知识/宝石·产地·证书·品质鉴别.docx — 59689 bytes

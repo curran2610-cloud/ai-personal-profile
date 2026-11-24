@@ -1,0 +1,42 @@
+{
+  "version": "white-model-v001",
+  "units": "mm",
+  "inner_diameter_mm": 16.5,
+  "radial_thickness_mm": 1.6,
+  "base_axial_width_mm": 2.0,
+  "wave_amplitude_mm": 0.45,
+  "thorn_nodes": [
+    {
+      "angle_deg": 25,
+      "height_mm": 1.9,
+      "width_deg": 10,
+      "side": 1
+    },
+    {
+      "angle_deg": 142,
+      "height_mm": 1.65,
+      "width_deg": 12,
+      "side": 1
+    },
+    {
+      "angle_deg": 257,
+      "height_mm": 1.45,
+      "width_deg": 10,
+      "side": 1
+    },
+    {
+      "angle_deg": 205,
+      "height_mm": 0.7,
+      "width_deg": 13,
+      "side": -1
+    },
+    {
+      "angle_deg": 330,
+      "height_mm": 0.85,
+      "width_deg": 13,
+      "side": -1
+    }
+  ],
+  "orthographic_scale_mm": 25.0,
+  "status": "Approximate study; dimensions and hidden geometry are assumptions."
+}

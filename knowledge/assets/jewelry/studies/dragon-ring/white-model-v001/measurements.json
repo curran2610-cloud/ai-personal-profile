@@ -1,0 +1,223 @@
+{
+  "bounds_mm": {
+    "X": 24.256250381469727,
+    "Y": 17.0,
+    "Z": 29.520000457763672
+  },
+  "metal_parts": 27,
+  "gem_count": 38,
+  "gem_counts": {
+    "1.8": 2,
+    "0.8": 6,
+    "1": 8,
+    "1.2": 14,
+    "1.6": 4,
+    "1.4": 4
+  },
+  "raw_mesh_checks": {
+    "Shank_continuous": {
+      "non_manifold_edges": 0
+    },
+    "Head_core_facets": {
+      "non_manifold_edges": 0
+    },
+    "Central_nose_to_crest": {
+      "non_manifold_edges": 0
+    },
+    "Brow_long_L": {
+      "non_manifold_edges": 0
+    },
+    "Eye_upper_ridge_L": {
+      "non_manifold_edges": 0
+    },
+    "Jaw_sweep_L": {
+      "non_manifold_edges": 0
+    },
+    "Eye_socket_L": {
+      "non_manifold_edges": 0
+    },
+    "Swept_armor_L_00": {
+      "non_manifold_edges": 0
+    },
+    "Swept_armor_L_01": {
+      "non_manifold_edges": 0
+    },
+    "Swept_armor_L_02": {
+      "non_manifold_edges": 0
+    },
+    "Swept_armor_L_03": {
+      "non_manifold_edges": 0
+    },
+    "Crown_scale_L_00": {
+      "non_manifold_edges": 0
+    },
+    "Crown_scale_L_01": {
+      "non_manifold_edges": 0
+    },
+    "Crown_scale_L_02": {
+      "non_manifold_edges": 0
+    },
+    "Pave_bed_L": {
+      "non_manifold_edges": 0
+    },
+    "Brow_long_R": {
+      "non_manifold_edges": 0
+    },
+    "Eye_upper_ridge_R": {
+      "non_manifold_edges": 0
+    },
+    "Jaw_sweep_R": {
+      "non_manifold_edges": 0
+    },
+    "Eye_socket_R": {
+      "non_manifold_edges": 0
+    },
+    "Swept_armor_R_00": {
+      "non_manifold_edges": 0
+    },
+    "Swept_armor_R_01": {
+      "non_manifold_edges": 0
+    },
+    "Swept_armor_R_02": {
+      "non_manifold_edges": 0
+    },
+    "Swept_armor_R_03": {
+      "non_manifold_edges": 0
+    },
+    "Crown_scale_R_00": {
+      "non_manifold_edges": 0
+    },
+    "Crown_scale_R_01": {
+      "non_manifold_edges": 0
+    },
+    "Crown_scale_R_02": {
+      "non_manifold_edges": 0
+    },
+    "Pave_bed_R": {
+      "non_manifold_edges": 0
+    },
+    "Eye_L": {
+      "non_manifold_edges": 0
+    },
+    "Forehead_L_00": {
+      "non_manifold_edges": 0
+    },
+    "Forehead_L_01": {
+      "non_manifold_edges": 0
+    },
+    "Forehead_L_02": {
+      "non_manifold_edges": 0
+    },
+    "Forehead_L_03": {
+      "non_manifold_edges": 0
+    },
+    "Forehead_L_04": {
+      "non_manifold_edges": 0
+    },
+    "Forehead_L_05": {
+      "non_manifold_edges": 0
+    },
+    "Forehead_L_06": {
+      "non_manifold_edges": 0
+    },
+    "Forehead_L_07": {
+      "non_manifold_edges": 0
+    },
+    "Shoulder_L_00": {
+      "non_manifold_edges": 0
+    },
+    "Shoulder_L_01": {
+      "non_manifold_edges": 0
+    },
+    "Shoulder_L_02": {
+      "non_manifold_edges": 0
+    },
+    "Shoulder_L_03": {
+      "non_manifold_edges": 0
+    },
+    "Shoulder_L_04": {
+      "non_manifold_edges": 0
+    },
+    "Shoulder_L_05": {
+      "non_manifold_edges": 0
+    },
+    "Shoulder_L_06": {
+      "non_manifold_edges": 0
+    },
+    "Shoulder_L_07": {
+      "non_manifold_edges": 0
+    },
+    "Shoulder_L_08": {
+      "non_manifold_edges": 0
+    },
+    "Shoulder_L_09": {
+      "non_manifold_edges": 0
+    },
+    "Eye_R": {
+      "non_manifold_edges": 0
+    },
+    "Forehead_R_00": {
+      "non_manifold_edges": 0
+    },
+    "Forehead_R_01": {
+      "non_manifold_edges": 0
+    },
+    "Forehead_R_02": {
+      "non_manifold_edges": 0
+    },
+    "Forehead_R_03": {
+      "non_manifold_edges": 0
+    },
+    "Forehead_R_04": {
+      "non_manifold_edges": 0
+    },
+    "Forehead_R_05": {
+      "non_manifold_edges": 0
+    },
+    "Forehead_R_06": {
+      "non_manifold_edges": 0
+    },
+    "Forehead_R_07": {
+      "non_manifold_edges": 0
+    },
+    "Shoulder_R_00": {
+      "non_manifold_edges": 0
+    },
+    "Shoulder_R_01": {
+      "non_manifold_edges": 0
+    },
+    "Shoulder_R_02": {
+      "non_manifold_edges": 0
+    },
+    "Shoulder_R_03": {
+      "non_manifold_edges": 0
+    },
+    "Shoulder_R_04": {
+      "non_manifold_edges": 0
+    },
+    "Shoulder_R_05": {
+      "non_manifold_edges": 0
+    },
+    "Shoulder_R_06": {
+      "non_manifold_edges": 0
+    },
+    "Shoulder_R_07": {
+      "non_manifold_edges": 0
+    },
+    "Shoulder_R_08": {
+      "non_manifold_edges": 0
+    },
+    "Shoulder_R_09": {
+      "non_manifold_edges": 0
+    }
+  },
+  "status": "Separate intersecting modeling components, NOT fused manufacturing mesh",
+  "unverified": [
+    "gem seating and clearances",
+    "reference 37g mass",
+    "interpretation of 10mm dimension",
+    "wear comfort",
+    "minimum wall thickness",
+    "intersections between parts"
+  ]
+}
