@@ -40,4 +40,5 @@
 - 主线按游戏开场、迈阿密霓虹、活动海报及演出、游戏内展示、工艺对照、热敏小票、工厂与产品、双件对比递进。横屏霓虹切入女性摆姿势的段落，清晰前景保留横幅，背景用同源画面模糊填充。小票先完整展示，再倾斜推近并框选商品条目。工厂段有肖像贴纸和拿货视频的前后叠层，音效、人声、BGM 分轨。
 - iCloud 相册仅导出本片用到的三条原片，放进 GTA 素材目录的「工厂素材_本片精选」。核对过 12 个关键时间的导演台画面，覆盖霓虹、报告、工位贴纸、卡尺、镶嵌、刻字和片尾。放置时保留正品对比图上的原始标注。
 
-参考拆解见 [小Lin竖屏剪辑全维度拆解](../knowledge/sources/vertical-explainer-editing/references/lin-editing-grammar.md) 和 [剪辑 Agent 制作简报](../knowledge/sources/vertical-explainer-editing/references/agent-editing-brief.md)。
+参考拆解见 [小Lin竖屏剪辑全维度拆解](../knowledge/sources/vertical-explainer-editing/references/lin-editing-grammar.md) 和 [剪辑 Agent 制作简报](../knowledge/sources/vertical-explainer-editing/references/agent-editing-brief.md)。  
+已定稿的通用风格模板与国产大模型指令卡见 [站长竖屏高定工艺剪辑 Skill 模板（通用跨模型版）](vertical-editing-style-skill.md)。
