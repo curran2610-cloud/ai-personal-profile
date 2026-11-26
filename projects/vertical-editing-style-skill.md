@@ -123,16 +123,19 @@
 
 ## 五、一键复制给 WorkBuddy / 豆包等国产大模型的开机指令
 
-### 1. 给 WorkBuddy 等本机 Agent（直接进阿杜导演台开工）
-把阿杜里「复制命令」那段话粘贴到下面一起发给它即可：
+### 1. 给 WorkBuddy 等本机 Agent（一条命令全包，直接进阿杜导演台开工）
+把阿杜里「复制命令」那段话粘贴到下面一起发给它即可，无需单独传文件或复制两份：
 
 ```text
-请先读取我的剪辑规范与阿杜操作手册：
-https://raw.githubusercontent.com/curran2610-cloud/ai-personal-profile/main/projects/vertical-editing-style-skill.md
+请先完整读取我的「站长竖屏剪辑」Skill 与风格基调规范（优先读本机路径，读不到再读云端地址）：
+- 本机 Skill 目录：/Users/kunkun/.codex/skills/adu-vertical-editing/（先读 SKILL.md、references/style-baseline.md、references/editors.md；抠白边贴纸可直接调用 scripts/make_sticker.py，合成浑厚低音 ASMR 独立音效轨可直接调用 scripts/render_asmr_bass_sfx.py）
+- 云端 GitHub 规范：https://raw.githubusercontent.com/curran2610-cloud/ai-personal-profile/main/projects/vertical-editing-style-skill.md
 
-硬性前提（必须遵守）：
-1. 绝对不要模拟鼠标点击、不要用 GUI 控制我的电脑去点阿杜导演台！请严格按阿杜协作目录里的 README.md / mep.json，用 MEP 1 文件协议（node submit.mjs）操作时间线、写透明 HTML Motion 页面、做独立原生音效轨 sfx-main，并用 look 抽帧自检。
-2. 完整遵守规范里的审美与声音基调：
+最高操作前提（必须遵守）：
+1. 绝对不要模拟鼠标点击、不要用 GUI 控制电脑去点阿杜导演台界面！
+2. 请直接进入下面的阿杜协作目录，先读里面的 README.md、mep.json 和 docs/timeline.md，完全通过 MEP 1 纯文件协议（把素材放 inbox/，写 JSON 请求运行 node submit.mjs，用 look 抽帧自检）完成剪辑；
+3. 严禁修改官方模板库，最后不要尝试点导出，做好可编辑工程并完成抽帧 + 混音实听验收后通知我导出。
+4. 完整遵守规范里的审美与声音基调：
    - 配音/空镜/动效统一 1.1 倍速紧凑爽感（约 5.2–5.5 字/秒），BGM 保持 1.0 倍速原速不变；
    - 开场用干净柔焦底 + 左右一大一小完整头身明星白边贴纸（严禁截半个头、严禁腰部悬空断身，偏左从左画外滑入、偏右从右画外滑入）+ 居中两行好奇心短标题砸下，全片坚决零白闪零晃眼；
    - 正文实拍细节 100% 锁画面中央，静态佐证图全片只用 1 次绝不重复，说到「站长」时右侧滑入站长白边抠图贴纸 + 底座铭牌强化 IP；
@@ -140,8 +143,9 @@ https://raw.githubusercontent.com/curran2610-cloud/ai-personal-profile/main/proj
    - 音效采用权志龙式浑厚重低音「嘣嘣嘣」+ 温润短折纸 ASMR 独立落轨 sfx-main（严禁音叉/铃铛、风声呼呼、嘶嘶白噪和抓绒/胶带刮擦声）。
 
 本片素材目录：〈这里贴你的素材文件夹路径〉
-阿杜协作命令：〈这里贴阿杜「复制命令」出来的工程目录与本单口令〉
-请先读完文档和素材，给我确认一版分镜后直接开工落轨。
+阿杜协作命令：〈这里粘阿杜「复制命令」出来的工程目录与本单口令〉
+
+请先读完 Skill、阿杜文档和素材，给我确认开场构图与全片分镜后直接开工落轨。
 ```
 
 ### 2. 给豆包等纯聊天大模型（帮你当总导演：定开头、写分镜、选素材）
