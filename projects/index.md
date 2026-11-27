@@ -1,3 +1,4 @@
+- [站长竖屏剪辑主脑 Skill v2.0.0（Grade-A 10条铁律 × 5阶段门禁版）](adu-vertical-editing-skill-v2.md)
 # 当前项目
 来源：用户要求与 GitHub 连接实测；更新：2026-11-25。
 ## AI个人档案知识库
